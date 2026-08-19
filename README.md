@@ -1,6 +1,6 @@
 <p align="center">
   <img 
-    src="./assets/github-cover.jpg" 
+    src="https://capsule-render.vercel.app/api?type=waving&color=083E7E&height=220&section=header&text=S.%20I.%20Omar&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Shopify%20%26%20Frontend%20Developer&descSize=20&descAlignY=62" 
     width="100%" 
     alt="S. I. Omar — Shopify Developer"
   />
@@ -24,13 +24,13 @@
 </p>
 
 <p align="center">
-  <a href="YOUR_PORTFOLIO_URL">
+  <a href="https://github.com/siomar-dev">
     <img src="https://img.shields.io/badge/Portfolio-Visit-083E7E?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="https://linkedin.com/in/siomar-dev">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:siomar.dev@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
@@ -130,7 +130,7 @@ responsive storefront with structured sections and a clean eCommerce experience.
 - Responsive Design
 - eCommerce UX
 
-🔗 **Live Demo:** YOUR_LIVE_DEMO_URL
+🔗 **Live Demo:** https://siomar-dev.github.io/project-1
 
 ---
 
@@ -150,7 +150,7 @@ reusable sections, responsive behavior, and a polished shopping experience.
 - Responsive Layout
 - Interactive UI
 
-🔗 **Live Demo:** YOUR_LIVE_DEMO_URL
+🔗 **Live Demo:** https://siomar-dev.github.io/project-2
 
 ---
 
@@ -170,7 +170,7 @@ and reusable components for a modern eCommerce experience.
 - Responsive Design
 - eCommerce UI
 
-🔗 **Live Demo:** YOUR_LIVE_DEMO_URL
+🔗 **Live Demo:** https://siomar-dev.github.io/project-3
 
 ---
 
@@ -190,7 +190,7 @@ responsive layouts, and a smooth user experience.
 - UX
 - eCommerce
 
-🔗 **Live Demo:** YOUR_LIVE_DEMO_URL
+🔗 **Live Demo:** https://siomar-dev.github.io/project-4
 
 ---
 
@@ -211,7 +211,7 @@ focused on responsive UI and structured frontend development.
 - Responsive UI
 - Modern Frontend Architecture
 
-🔗 **Live Demo:** YOUR_LIVE_DEMO_URL
+🔗 **Live Demo:** https://siomar-dev.github.io/nextjs-blog
 
 ---
 
@@ -230,7 +230,7 @@ focused on interactive UI and frontend functionality.
 - Responsive Design
 - Frontend Development
 
-🔗 **Live Demo:** YOUR_LIVE_DEMO_URL
+🔗 **Live Demo:** https://siomar-dev.github.io/react-code-editor
 
 ---
 
@@ -249,7 +249,7 @@ using HTML, CSS, and JavaScript.
 - Responsive Design
 - UI Development
 
-🔗 **Live Demo:** YOUR_LIVE_DEMO_URL
+🔗 **Live Demo:** https://siomar-dev.github.io/youtube-clone
 
 ---
 
@@ -313,15 +313,15 @@ I'm open to opportunities involving:
 - Freelance Shopify Projects
 
 <p align="center">
-  <a href="YOUR_PORTFOLIO_URL">
+  <a href="https://github.com/siomar-dev">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-083E7E?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
 
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="https://linkedin.com/in/siomar-dev">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:siomar.dev@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
