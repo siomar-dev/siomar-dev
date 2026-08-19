@@ -1,6 +1,6 @@
 <p align="center">
   <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=083E7E&height=220&section=header&text=S.%20I.%20Omar&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Shopify%20%26%20Frontend%20Developer&descSize=20&descAlignY=62" 
+    src="https://cdn.shopify.com/s/files/1/0951/2845/3414/files/Gemini_Generated_Image_q8b8kzq8b8kzq8b8.jpg?v=1787119549" 
     width="100%" 
     alt="S. I. Omar — Shopify Developer"
   />
