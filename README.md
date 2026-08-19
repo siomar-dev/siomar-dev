@@ -1,14 +1,4 @@
-হ্যাঁ—আপনার বর্তমান README-টা তথ্যসমৃদ্ধ, কিন্তু **আরও premium, clean এবং client-facing** করা যায়। বিশেষ করে আপনার GitHub profile-এ প্রথম নজরেই যেন বোঝা যায়:
-
-**“Shopify Developer → কী করেন → কী build করেন → Portfolio → Projects → Contact”**
-
-আমি duplicate content কমিয়ে, visual hierarchy বাড়িয়ে, Shopify-কে primary positioning দিয়ে সাজাব। আপনার `siomar-dev` identity এবং **Sofekul Islam Omar** নামটাও consistent রাখছি।
-
-নিচের version-টা সরাসরি `README.md`-এ ব্যবহার করতে পারেন।
-
-# 👋 Sofekul Islam Omar
-
-<p align="center">
+p align="center">
   <img
     src="https://cdn.shopify.com/s/files/1/0951/2845/3414/files/Gemini_Generated_Image_q8b8kzq8b8kzq8b8.jpg?v=1787119549"
     width="100%"
